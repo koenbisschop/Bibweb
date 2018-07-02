@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibDomain.Business.Item" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAABAAEAAAAAAAAQAAAABAIAAAQAAA=</HashCode>
+      <FileName>Business\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.ItemBuilder">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\ItemBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.Entity">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.Boek" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAAA=</HashCode>
+      <FileName>Business\Boek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.CD" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\CD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BibDomain.Business.DragerType">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

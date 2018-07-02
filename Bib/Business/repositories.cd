@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibDomain.Business.ExemplarenRepository">
+    <Position X="6.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\ExemplarenRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.GebruikersRepository">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Business\GebruikersRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.ItemsRepository">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\ItemsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibDomain.Business.OntleningenRepository">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAAAAAIAAgEAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Business\OntleningenRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_ledenRepository" />
+      <Field Name="_exemplarenRepository" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

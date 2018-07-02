@@ -1,0 +1,23 @@
+﻿body {
+    background-color:#fff;
+    font-family:myFirstFont;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_bold.woff);
+    font-weight: bold;
+}
+.loginheading {
+    float: right;
+}
+#pad {
+    position:absolute;
+    top: 175px;
+}
+#content {
+    /*background-color: #DDD;*/
+    position:absolute;
+    top: 220px;
+    width: 90%;
+
+}
